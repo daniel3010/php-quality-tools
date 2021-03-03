@@ -1,5 +1,5 @@
 {
-  "name": "daniel3010/code-quality-tools",
+  "name": "daniel3010/php-quality-tools",
   "description": "PHP code quality tools",
   "version": "1.0.0",
   "require": {

@@ -1,7 +1,7 @@
 {
   "name": "daniel3010/php-quality-tools",
   "description": "PHP code quality tools",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "require": {
     "friendsofphp/php-cs-fixer": "*",
     "squizlabs/php_codesniffer": "*",

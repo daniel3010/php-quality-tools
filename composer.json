@@ -22,13 +22,5 @@
     "branch-alias": {
       "dev-master": "v1.0.x-dev"
     }
-  },
-  "scripts": {
-    "php-cs-fixer": "php-cs-fixer",
-    "phpcs": "phpcs",
-    "phpcbf": "phpcbf",
-    "phpmd": "phpmd",
-    "phpstan": "phpstan",
-    "psalm": "psalm"
   }
 }

@@ -1,0 +1,34 @@
+{
+  "name": "daniel3010/code-quality-tools",
+  "description": "PHP code quality tools",
+  "version": "1.0.0",
+  "require": {
+    "friendsofphp/php-cs-fixer": "*",
+    "squizlabs/php_codesniffer": "*",
+    "phpstan/phpstan": "*",
+    "vimeo/psalm": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Daniel",
+      "email": "dung.vienphamtri@gmail.com"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "v1.0.x-dev"
+    }
+  },
+  "scripts": {
+    "php-cs-fixer": "php-cs-fixer",
+    "phpcs": "phpcs",
+    "phpcbf": "phpcbf",
+    "phpmd": "phpmd",
+    "phpstan": "phpstan",
+    "psalm": "psalm"
+  }
+}

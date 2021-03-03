@@ -22,10 +22,5 @@
     "branch-alias": {
       "dev-master": "v1.0.x-dev"
     }
-  },
-  "scripts": {
-    "post-package-install": [
-      "psalm --init"
-    ]
   }
 }
